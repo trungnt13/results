@@ -352,7 +352,7 @@ Waiting for calculation
 
 * Better features:
 
-![Features](img/features)
+![Features](img/features.JPG)
 
 * Adding convoluational layers to extract invariant features:
 * Stronger regularization to prevent overfitting: Dropout, Noise, Pretraining.
